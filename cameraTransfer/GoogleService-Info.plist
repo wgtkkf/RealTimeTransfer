@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>637959750574-6o497npb4in7sjfe7hn0koe1j5lfk42c.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.637959750574-6o497npb4in7sjfe7hn0koe1j5lfk42c</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAbiuVQxY2C2wFtD9TUKOuaE1fnw72rXvQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>637959750574</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>Transfer.cameraTransfer</string>
+	<key>PROJECT_ID</key>
+	<string>filetransfer-a7a45</string>
+	<key>STORAGE_BUCKET</key>
+	<string>filetransfer-a7a45.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:637959750574:ios:3531cfe22a355fbc27fe3f</string>
+	<key>DATABASE_URL</key>
+	<string>https://filetransfer-a7a45.firebaseio.com</string>
+</dict>
+</plist>
