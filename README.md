@@ -1,2 +1,2 @@
 # RealTimeTransfer
-Real time transfer of images from iphone to JetsonNano through Firebase. JetsonNano work for object detections. Results are comverted to MP3 format for listening from the iphone.
+Real time transfer of images from iphone to JetsonNano through Firebase. JetsonNano works for object detections creating MP3 file to listen the results from the iphone.
